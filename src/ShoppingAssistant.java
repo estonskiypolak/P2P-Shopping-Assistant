@@ -1,3 +1,6 @@
+/* Această clasă reprezintă nucleul aplicației (Brain-ul), gestionând algoritmii de rutare optimă și agregarea datelor de la mai mulți utilizatori. */
+
+
 import java.util.List;
 import java.util.ArrayList;
 
