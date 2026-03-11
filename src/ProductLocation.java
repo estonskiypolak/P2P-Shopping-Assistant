@@ -1,6 +1,6 @@
 /**
 
- Această clasă se concentrează pe stocarea brută a coordonatelor, fiind o entitate de date esențială pentru logica de mapare.
+  Această clasă se concentrează pe stocarea brută a coordonatelor, fiind o entitate de date esențială pentru logica de mapare.
  
  * Clasa ProductLocation reține coordonatele geografice unde un produs
  * a fost marcat ca fiind găsit.
